@@ -1,0 +1,8 @@
+---
+applications:
+- name: TweetExtract--16907
+  memory: 512M
+  host: TweetExtract--16907
+  domain: mybluemix.net
+  services:
+  - Natural Language Understanding-mq
